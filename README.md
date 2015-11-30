@@ -25,6 +25,7 @@ It offers a number of advantages over the upstream Cuckoo:
 
 For more information on the initial set of changes, see:
 http://www.accuvant.com/blog/improving-reliability-of-sandbox-results
-An updated blog post covering more recent changes is forthcoming.
 
-If you want to contribute to development, submit pull requests or email brad.spengler@optiv.com.
+December 1st 2015 is my last day at Optiv.  I want to thank Optiv for giving me the opportunity to contribute all this work to the rest of the world.
+Since I will no longer have access to this account, I have created a fork of each of the repos at https://github.com/spender-sandbox/ which you may
+submit pull requests to that I will respond to quickly.
