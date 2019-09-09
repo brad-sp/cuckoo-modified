@@ -1,4 +1,4 @@
-This is a heavily modified version of [Cuckoo Sandbox](http://www.cuckoosandbox.org) provided under the GPL by Optiv, Inc.
+This is a heavily modified version of [Cuckoo Sandbox](http://www.cuckoosandbox.org) provided under the GPL.
 
 It offers a number of advantages over the upstream Cuckoo:
 + Fully-normalized file and registry names
@@ -10,7 +10,7 @@ It offers a number of advantages over the upstream Cuckoo:
 + Ability to follow APC injection and stealth explorer injection
 + Pretty-printed API flags
 + Per-analysis Tor support
-+ Over 150 new signature modules (over 75 developed solely by Optiv)
++ Over 150 new signature modules (over 75)
 + Anti-anti-sandbox and anti-anti-VM techniques built-in
 + More stable hooking
 + Ability to restore removed hooks
@@ -23,9 +23,5 @@ It offers a number of advantages over the upstream Cuckoo:
 + Significant contributions from [Jeremy Hedges](https://github.com/killerinstinct/), [William Metcalf](https://github.com/wmetcalf), and Kevin Ross
 + Hundreds of other bugfixes
 
-For more information on the initial set of changes, see:
-http://www.accuvant.com/blog/improving-reliability-of-sandbox-results
-
-December 1st 2015 is my last day at Optiv.  I want to thank Optiv for giving me the opportunity to contribute all this work to the rest of the world.
 Since I will no longer have access to this account, I have created a fork of each of the repos at https://github.com/spender-sandbox/ which you may
 submit pull requests to that I will respond to quickly.
